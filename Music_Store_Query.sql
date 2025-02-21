@@ -105,7 +105,7 @@ ORDER BY miliseconds DESC;
 
 
 
-/* Question Set 3 - Advance */
+/* Question Set 2 - Advance */
 
 /* Q1: Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent */
 
